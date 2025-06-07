@@ -1,0 +1,11 @@
+# Python & venv
+__pycache__/
+.venv/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
